@@ -10,3 +10,7 @@
 | Beach noise | Already captured in old audio from this summer |
 | Ruffling sheets | Record in my room |
 | Computer lid closing | Record closing computer lid at my desk |
+| Fallout 76 esque music | Find onld 70's track on youtube, and garble it into a state of distorition |
+| News reports on corona virus | screen cap some youtube news reports and splice the audio clips |
+| Sigh | Record myself sighing |
+| Meloncoly music | The same music I used before except not distorted |
